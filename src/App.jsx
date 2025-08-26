@@ -5,10 +5,10 @@ function App() {
   return (
     <>
       <div>
-        <h2>With UseCallBack hook</h2>
+        <h2>Without UseCallBack hook</h2>
         <UseCallBack />
         <hr />
-        <h2>Without UseCallBack hook</h2>
+        <h2>With UseCallBack hook</h2>
         <UpdatedUseCallBack />
       </div>
     </>
